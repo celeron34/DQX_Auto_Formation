@@ -1,0 +1,3 @@
+24/06/13
+WindowsUpdateでBotが停止
+Windowsスタートアップに設定するかLinuxマシンでの稼働がよい？
