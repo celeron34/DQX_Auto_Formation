@@ -1,5 +1,3 @@
-# https://discord.com/oauth2/authorize?client_id=1247003989766049822&permissions=534992386118&scope=bot
-
 import discord
 from discord.ext import tasks
 from dqx_ise import getTable
@@ -185,4 +183,4 @@ def getTimetable():
             timeTable.append(t)
     return timeTable
 
-client.run('MTI0NzAwMzk4OTc2NjA0OTgyMg.Gc1_tK.lQdhLA3zTAnGnaebFWQC6hUckNTCusCLpAs0wA')
+client.run('')
